@@ -1,2 +1,3 @@
 # VITAA-USA
-vitaa usa
+This is the repository for VITAA-USA webpage development
+
