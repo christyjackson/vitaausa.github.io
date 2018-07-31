@@ -1,0 +1,22 @@
+.card_format {
+			text-align: center;
+			margin-left: 16%;
+			margin-bottom: 5%;
+			width: 70%;
+			border-radius: 6px;
+			transition: .25s;
+			box-shadow: 0 4px 0 8px rbga(0,0,0,.2);
+			border: 1px solid #a9a9a9;
+		}
+.card_format:hover {
+			border: 1px solid #333;
+			box-shadow: 0 8px 0 16px rbga(0,0,0,0.4);
+		}
+.card_format img {
+			border-radius: 6px 6px 0 0;
+		}
+.card_format p {
+
+			padding: 2px 16px;
+			margin: 0;
+		}
